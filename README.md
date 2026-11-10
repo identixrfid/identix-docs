@@ -1,2 +1,2 @@
-# identix-docs
+# Identix Docs
 Identix Documents
