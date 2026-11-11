@@ -12,7 +12,7 @@ Cada guia é publicado com a versão do app ao qual ele pertence.
 | ITTS IRIS – Guia do Usuário | [3.28.0](USER_GUIDE_ITTS_IRIS_3.28.0.md) | — |
 | ITTS PDS – Guia do Usuário | [3.28.0](USER_GUIDE_ITTS_PDS_3.28.0.md) | — |
 | ITTS TLM – Guia do Usuário | [3.28.0](USER_GUIDE_ITTS_TLM_3.28.0.md) | — |
-| ITTS Mobile – Guia do Usuário | [1.21.1](USER_GUIDE_ITTS_MOBILE_1.21.1.md) | [1.21.0](USER_GUIDE_ITTS_MOBILE_1.21.0.md) |
+| ITTS Mobile – Guia do Usuário | [1.21.2](USER_GUIDE_ITTS_MOBILE_1.21.2.md) | [1.21.1](USER_GUIDE_ITTS_MOBILE_1.21.1.md), [1.21.0](USER_GUIDE_ITTS_MOBILE_1.21.0.md) |
 | ITTS API – Guia do Integrador | [1.16.0](USER_GUIDE_ITTS_API_1.16.0.md) | — |
 | ITTS Tracker – Guia do Usuário | [2.6.3](USER_GUIDE_ITTS_TRACKER_2.6.3.md) | — |
 | ITTS Tracker Manager – Guia do Usuário | [2.6.1](USER_GUIDE_ITTS_TRACKER_MANAGER_2.6.1.md) | — |
